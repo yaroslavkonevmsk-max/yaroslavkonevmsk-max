@@ -22,6 +22,6 @@ The result is a continuous visual story through the forest setting, living room 
 
 ### What this case shows
 
-Loki plays a rendered image sequence. It is not a freely navigable real-time 3D house. The selected images are 3840 × 2160, upscaled from 1920 × 1080. The available project is a built site, so this case presents the experience rather than a complete source release.
+Loki tells its story through a rendered image sequence controlled by scrolling. The selected images are 3840 × 2160, upscaled from 1920 × 1080. The available project is a built site, so this case presents the experience rather than a complete source release.
 
 [Discuss a presentation for your property →](https://t.me/YasikKonco) · [Back to selected work](../README.md)
