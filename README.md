@@ -1,8 +1,8 @@
 # Yaroslav Konev
 
-**Web design & interactive experiences**
+**Websites, interactive experiences & Telegram bots**
 
-I build websites with a sense of place: clear interfaces, considered motion, and architectural stories you can explore.
+I build websites with a sense of place and tools that simplify everyday work: clear interfaces, considered motion, and useful Telegram conversations.
 
 [Discuss a project →](https://t.me/YasikKonco) · [More work on FL.ru](https://www.fl.ru/users/konevfreemsk/portfolio/)
 
@@ -32,8 +32,20 @@ Interactive experience · Navigation · Property presentation
 
 [View the case →](https://yaroslavkonevmsk-max.github.io/yaroslavkonevmsk-max/house-walk.html)
 
+### 03 / Pravkin
+
+**One small change. One simple conversation.**
+
+[![Pravkin's real public Telegram page](assets/pravkin-telegram.png)](https://yaroslavkonevmsk-max.github.io/yaroslavkonevmsk-max/pravkin.html)
+
+Send a PDF, describe the edit in ordinary words and review the result before approving delivery. Pravkin turns everyday document changes into a guided Telegram conversation.
+
+Telegram bot · Conversational UX · Python · Limited PDF beta
+
+[View the case →](https://yaroslavkonevmsk-max.github.io/yaroslavkonevmsk-max/pravkin.html) · [Open the bot →](https://t.me/PravkinPDF_bot)
+
 ---
 
-**Have a place, product, or idea to present?**
+**Have a place, product, or workflow to improve?**
 
 Send a short brief, a reference, and what the visitor should be able to do. [Let's talk on Telegram →](https://t.me/YasikKonco)
