@@ -2,30 +2,26 @@
 
 # Loki
 
-**Architectural storytelling, paced by the visitor.**
+**A house revealed one scene at a time.**
 
 ![A forest residence at dusk, from the Loki image sequence](../assets/loki-exterior.webp)
 
-### The brief
+First, the forest. Then the glow of a house between the trees. Keep scrolling and the story moves indoors, from the exterior into rooms that feel connected to the landscape around them.
 
-Present a residence through its atmosphere and spaces. The experience needed a clear progression from the exterior to the interior, with an interface that leaves room for the imagery.
+Loki explores what happens when a property website takes its cues from film. The visitor sets the pace. Each new view has a reason to appear, giving the architecture room to make an impression before the interface asks for attention.
 
-### The work
+### The experience
 
-The web presentation combines responsive page composition, restrained typography, and scroll motion. Four chapters guide the visitor through a sequence of rendered views, bringing the architecture into focus one scene at a time.
-
-The contribution presented here is the web interface, motion, and image-sequence presentation.
+Four chapters guide the journey from setting to interior. A rendered image sequence and scroll motion create the transitions; responsive layouts and quiet typography keep the focus on the home. The web interface, motion and image-sequence presentation are the work shown in this case.
 
 ![Loki living room with timber finishes and a fireplace](../assets/loki-living.webp)
 
-### The outcome
-
-A cinematic web presentation that connects the forest setting, living room, and kitchen into one continuous visual story. The frames shown here come from the actual local project.
+The result is a continuous visual story through the forest setting, living room and kitchen. The frames below and above come from the actual local project.
 
 ![Loki kitchen opening toward the forest](../assets/loki-kitchen.webp)
 
-### Scope
+### What this case shows
 
-This experience plays a rendered image sequence; it does not provide free navigation through a real-time 3D model. The selected image files are 3840 × 2160, upscaled from 1920 × 1080. The available project is a built site, so this case presents the work rather than a complete source release.
+Loki plays a rendered image sequence. It is not a freely navigable real-time 3D house. The selected images are 3840 × 2160, upscaled from 1920 × 1080. The available project is a built site, so this case presents the experience rather than a complete source release.
 
-[Discuss a similar project →](https://t.me/YasikKonco) · [Back to selected work](../README.md)
+[Discuss a presentation for your property →](https://t.me/YasikKonco) · [Back to selected work](../README.md)
