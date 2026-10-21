@@ -10,11 +10,11 @@ I build websites with a sense of place: clear interfaces, considered motion, and
 
 ### 01 / Loki
 
-**A forest residence, revealed through motion.**
+**A house revealed like a short film.**
 
 [![Loki: an illuminated residence among pine trees at dusk](assets/loki-exterior.webp)](cases/loki.md)
 
-A cinematic architectural presentation. Scrolling carries the visitor from the forest exterior into the living spaces, with quiet typography and a sequence of rendered frames.
+The forest comes first. As you scroll, the home emerges frame by frame and the story moves inside. Loki gives an architectural presentation the pacing of a short film.
 
 Interface composition · Responsive layout · Scroll motion
 
@@ -22,13 +22,13 @@ Interface composition · Responsive layout · Scroll motion
 
 ### 02 / House Walk
 
-**A property presentation you can step into.**
+**Could you picture your life here?**
 
 [![House Walk: architectural concept cover based on the interactive house demo](assets/house-walk-cover.png)](cases/house-walk.md)
 
 *Concept visualization based on the demo. Open the case to see the working interface.*
 
-A real-time WebGL demo with exterior orbit, a walk through the grounds and first floor, day and evening settings, and furnishing options.
+A working 3D demo lets visitors circle the house, walk the grounds and first floor, then try day, evening and furnishing options. The case shows the real interface behind the concept cover.
 
 Interactive 3D · Navigation · Property presentation
 
